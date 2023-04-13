@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ScopeDemo" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="lesson2" />
+    <module name="Restart" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
